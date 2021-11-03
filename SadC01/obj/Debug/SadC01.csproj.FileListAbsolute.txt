@@ -1,0 +1,112 @@
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\SADC01\SadC01\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\REPO01\konzolteszt01\SadC01\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest 02\REPO02\SadC01\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SadC01_02\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SadC01_03\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SadC01_04\SadC01\obj\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\SadC01.exe.config
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\SadC01.pdb
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\MonoGame.Framework.dll
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\Newtonsoft.Json.dll
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\SadConsole.dll
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\MonoGame.Framework.xml
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\Newtonsoft.Json.xml
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\bin\Debug\SadConsole.xml
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\obj\Debug\SadC01.csprojAssemblyReference.cache
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\obj\Debug\SadC01.csproj.CoreCompileInputs.cache
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\obj\Debug\SadC01.csproj.CopyComplete
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\obj\Debug\SadC01.exe
+C:\DAVID\SZAKDOGA\01\SuperZekkeli\SadC01\obj\Debug\SadC01.pdb

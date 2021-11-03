@@ -1,0 +1,10 @@
+﻿{
+  "Name": "monochrome",
+  "FilePath": "tiles.png",
+  "GlyphHeight": 16,
+  "GlyphPadding": 0,
+  "GlyphWidth": 16,
+  "SolidGlyphIndex": 0,
+  "Columns": 16,
+  "Rows": 16
+}

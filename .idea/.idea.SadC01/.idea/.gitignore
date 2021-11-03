@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.SadC01.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\DAVID\PROJEKTEKPROGRAMOZÁS\consoletest01\SadC01\.idea\.idea.SadC01\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
