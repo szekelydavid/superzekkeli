@@ -1,6 +1,10 @@
 # superzekkeli
 C# console retro space shooter. Made with SadConsole. By: SZDA 2021.04
+<br />
 <br /> 
+DOKUMENTÁCIÓ:
+<br /> 
+https://drive.google.com/file/d/15ciGXFfLx_DZroxjXsu7_uxpAgWdYqoL/view?usp=sharing
 <br /> 
 FŐCÍM:
 <br /> 
